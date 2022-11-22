@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Fang-Chat/static/css/main.363f1772.css",
-    "main.js": "/Fang-Chat/static/js/main.40cfa314.js",
+    "main.js": "/Fang-Chat/static/js/main.eaf02927.js",
     "static/js/787.ab17ef08.chunk.js": "/Fang-Chat/static/js/787.ab17ef08.chunk.js",
     "static/media/xmtp-logo.png": "/Fang-Chat/static/media/xmtp-logo.016f1b0eb0ffcbd9b971.png",
     "index.html": "/Fang-Chat/index.html",
     "main.363f1772.css.map": "/Fang-Chat/static/css/main.363f1772.css.map",
-    "main.40cfa314.js.map": "/Fang-Chat/static/js/main.40cfa314.js.map",
+    "main.eaf02927.js.map": "/Fang-Chat/static/js/main.eaf02927.js.map",
     "787.ab17ef08.chunk.js.map": "/Fang-Chat/static/js/787.ab17ef08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.363f1772.css",
-    "static/js/main.40cfa314.js"
+    "static/js/main.eaf02927.js"
   ]
 }
